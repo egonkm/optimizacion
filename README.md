@@ -1,3 +1,3 @@
-Actividad asignatura Algoritmos de Optimización
+# Actividad asignatura Algoritmos de Optimización
 
-Ejecutar el notebook "act_opt".
+## Ejecutar el notebook "act_opt".
